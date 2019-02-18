@@ -1,0 +1,117 @@
+body {
+    background-color: rgba(176, 224, 230, 0.85);
+    font-family: "Arial";
+    color: rgb(130, 130, 130);
+}
+
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: rgb(100, 100, 100);
+    text-align: center;
+}
+
+h2{
+    font-size: 30px;
+    padding: 0;
+    margin: 0;
+    padding-top: 10px;
+    color: rgb(86,122, 127);
+}
+
+h3{
+    padding: 0;
+    margin: 0;
+    padding-top: 7px;
+    font-size: 23px;
+}
+
+h5{
+    font-size: 18px;
+    padding: 0;
+    margin: 0;
+    padding-top: 5px;
+}
+
+nav {
+    background-color: rgb(86,122, 127);
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+p{
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    padding: 2px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
+}
+
+figcaption{
+    font-size: 90%;
+    font-style: italic;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+a:visited{
+    text-decoration: none;
+    color: lightgoldenrodyellow;
+}
+
+a:hover{
+    color: lightpink;
+}
+
+a:active{
+    text-decoration: none;
+    color: palevioletred;
+}
+
+img{
+    border: solid;
+    border-color: rgb(86,122, 127);
+    border-width: medium;
+}
+
+.fig1{
+    float: right;
+    padding: 0;
+    margin: 0;
+    padding-top: 80px;
+    padding-right: 20px;
+}
+
+hr{
+    border-color: rgb(86,122, 127);
+}
+
+.fig2{
+    float: right;
+    padding-right: 30px;
+    padding: 0;
+    margin: 0;
+    padding-top: 30px;
+    padding-right: 20px;
+}
+
+.fig3{
+    float: right;
+    padding: 0;
+    margin: 0;
+    padding-top: 30px;
+    padding-right: 20px;
+}
